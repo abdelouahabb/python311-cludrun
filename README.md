@@ -1,2 +1,1 @@
-# python311-cludrun
-run python 3.11 everywhere !
+[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
